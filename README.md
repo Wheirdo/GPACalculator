@@ -51,4 +51,4 @@ The core of the program is OOP, specifically the Course class and Semester clas
   - Grades: Sum of grades from Classes
   - GPA: GPA for this semester (hours/grades)
 
-And that's pretty much it. The rest of the program is a loop that prints out all the classes of all the semesters, and the Institution Hours, Transfer Hours, and GPA
+And that's pretty much it. The Semester and Course classes have toString methods that format the final output. Otherwise, the rest of the program is a loop that prints out all the classes of all the semesters, and the Institution Hours, Transfer Hours, and GPA
